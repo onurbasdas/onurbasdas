@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate iOS Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurbasdas&label=Profile%20views&color=0e75b6&style=flat" alt="onurbasdas" /> </p>
-
 - 🔭 I’m currently working on **3Pounds**
 
 - 🌱 I’m currently learning **SwiftUI**
@@ -26,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurbasdas&show_icons=true&locale=en" alt="onurbasdas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurbasdas&" alt="onurbasdas" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurbasdas&label=Profile%20views&color=0e75b6&style=flat" alt="onurbasdas" /> </p>
+
