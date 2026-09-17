@@ -1,7 +1,11 @@
-### Hi, I'm Onur 👋
+## Hi, I'm Onur Başdaş 👋
 
-Senior iOS developer based in Istanbul. I build native apps with **Swift**, **SwiftUI** and **UIKit**, and I care about clean, scalable code.
+**Senior iOS Developer** based in Istanbul, with 5+ years of experience building and shipping App Store apps.
 
-- 🚗 Maintaining [tr-ev-data](https://github.com/onurbasdas/tr-ev-data), an open dataset of electric cars sold in Türkiye
-- 📝 iOS articles on [Medium](https://medium.com/@onurbasdas), with the sample code in [this repo](https://github.com/onurbasdas/Medium)
-- 📫 [onurbasdas5@gmail.com](mailto:onurbasdas5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onur-basdas/)
+I've built features for a large-scale travel platform, a content-driven news app and enterprise banking, working end-to-end with product, design and backend teams. I care about clean, testable code and scalable, maintainable architecture.
+
+- **Languages & UI:** Swift, SwiftUI, UIKit, RxSwift, Objective-C
+- **Architecture:** MVVM, Clean Architecture, VIPER
+- **Shipping:** Firebase Remote Config & A/B testing, App Store Connect, TestFlight
+
+📫 [onurbasdas5@gmail.com](mailto:onurbasdas5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onur-basdas/) · [Medium](https://medium.com/@onurbasdas) · [Resume](https://onurbasdas-blog.vercel.app)
