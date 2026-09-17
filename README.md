@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Onur Başdaş</h1>
-<h3 align="center">An iOS Developer from Turkey, passionate about building clean and scalable mobile apps.</h3>
+### Hi, I'm Onur 👋
 
-- 💼 I’m currently working at **StartupHeros**
-- 🌱 I’m currently improving myself in **SwiftUI**
-- 💬 Ask me about **Swift, UIKit, and iOS Development**
-- 📫 How to reach me: **onurbasdas5@gmail.com**
+Senior iOS developer based in Istanbul. I build native apps with **Swift**, **SwiftUI** and **UIKit**, and I care about clean, scalable code.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=onurbasdas&label=Profile%20views&color=0e75b6&style=flat" alt="onurbasdas" />
-</p>
+- 🚗 Maintaining [tr-ev-data](https://github.com/onurbasdas/tr-ev-data), an open dataset of electric cars sold in Türkiye
+- 📝 iOS articles on [Medium](https://medium.com/@onurbasdas), with the sample code in [this repo](https://github.com/onurbasdas/Medium)
+- 📫 [onurbasdas5@gmail.com](mailto:onurbasdas5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onur-basdas/)
