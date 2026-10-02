@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" alt="Onur Başdaş, Senior iOS Developer. Stack: Swift, SwiftUI, UIKit, RxSwift. Architecture: MVVM, Clean Architecture, VIPER. Ships to the App Store and TestFlight.">
+<img src="banner.svg" width="100%" alt="Onur Başdaş, Senior iOS Developer. Stack: Swift, SwiftUI, UIKit, RxSwift. Architecture: MVVM, Clean Architecture, VIPER. Ships to the App Store and TestFlight.">
 
 ### Hi, I'm Onur 👋
 
