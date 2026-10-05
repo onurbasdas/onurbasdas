@@ -5,12 +5,12 @@
 ### Latest articles
 
 <p>
+  <a href="https://medium.com/@onurbasdas/daacbe9787a2"><img src="covers/swift-6-4.jpg" width="49%" alt="Swift 6.4 Yenilikleri: Günlük Kodu Kolaylaştıran 8 Değişiklik"></a>
   <a href="https://medium.com/@onurbasdas/8fc6de68bd6d"><img src="covers/xcproj.jpg" width="49%" alt="Xcode Proje Dosyası Artık JSON: project.pbxproj'dan project.xcproj'a"></a>
-  <a href="https://medium.com/@onurbasdas/51bdd5e13100"><img src="covers/asset-isimleri.jpg" width="49%" alt="UIKit'te Asset İsimleri: icon_home Değil, iconHome"></a>
 </p>
 <p>
+  <a href="https://medium.com/@onurbasdas/51bdd5e13100"><img src="covers/asset-isimleri.jpg" width="49%" alt="UIKit'te Asset İsimleri: icon_home Değil, iconHome"></a>
   <a href="https://medium.com/@onurbasdas/1034e0d850c7"><img src="covers/push-notifications.jpg" width="49%" alt="SwiftUI için Push Notifications: Basit ve Anlaşılır Rehber"></a>
-  <a href="https://medium.com/@onurbasdas/309dddf3dbae"><img src="covers/dependency-injection.jpg" width="49%" alt="Dependency Injection: iOS'te Gerçek Kullanım Rehberi"></a>
 </p>
 
 <p align="center">
